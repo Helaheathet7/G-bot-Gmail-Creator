@@ -11,7 +11,6 @@
 *Advanced Anti-Detection • Dynamic Proxy Routing • JA3/TLS Spoofing • Beautiful Glassmorphism UI*
 
 ---
-
 **G-Bot Mass Creator** is an extremely powerful, enterprise-grade botting application specifically engineered for hyper-scaled automated account creation. With our newly built graphical interface and proprietary anti-detect evasion engine, nothing in the market competes with the speed and reliability of G-Bot.
 
 <br>
